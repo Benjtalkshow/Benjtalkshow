@@ -1,6 +1,6 @@
 *Hi there 👋*
 
- **I'm Nnaji Benjamin**
+ **I'm** # Nnaji Benjamin
 
 *I specialize in turning design concepts into interactive web applications using a powerful stack of technologies.*
 <!--
