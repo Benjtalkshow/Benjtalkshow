@@ -1,8 +1,8 @@
-### Hi there 👋
+**Hi there 👋**
 
-### I'm Nnaji Benjamin
+ **I'm Nnaji Benjamin**
 
-### I specialize in turning design concepts into interactive web applications using a powerful stack of technologies.
+**I specialize in turning design concepts into interactive web applications using a powerful stack of technologies.**
 <!--
 **Benjtalkshow/Benjtalkshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Benjtalkshow&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Benjtalkshow&icon=0&color=0)](https://visitcount.itsvg.in)
