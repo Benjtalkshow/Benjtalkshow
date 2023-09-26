@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## I'm Nnaji Benjamin
+# I'm Nnaji Benjamin
 
-## specialize in turning design concepts into interactive web applications using a powerful stack of technologies.
+# I specialize in turning design concepts into interactive web applications using a powerful stack of technologies.
 <!--
 **Benjtalkshow/Benjtalkshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
