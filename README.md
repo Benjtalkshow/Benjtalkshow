@@ -1,5 +1,6 @@
-### Hi there 👋
-
+#Hi there 👋
+##I'm Nnaji Benjamin
+##specialize in turning design concepts into interactive web applications using a powerful stack of technologies.
 <!--
 **Benjtalkshow/Benjtalkshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +17,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently working on a Navbar generator
 
-
+- 🔭 I'm currently working on a Navbar generator
+-  🌱 I'm currently mastering ReactJs , Tailwind and css
+-   👯 Most importantly, i am looking for collaboration
+- ⚡ Fun fact : There's no day i don't write a line of code.
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Benjtalksho?mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/mwlite/in/nnaji-benjamin-542773182) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Benjtalkshows) 
 
