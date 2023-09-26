@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 - 🔭 I'm currently working on a Navbar generator
--  🌱 I'm currently mastering ReactJs , Tailwind and css
+-  🌱 I'm currently mastering ReactJs , Tailwindcss and Firebase
 -   👯 Most importantly, i am looking for collaboration
 - ⚡ Fun fact : There's no day i don't write a line of code.
   
