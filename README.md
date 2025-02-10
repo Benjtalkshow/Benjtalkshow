@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nnaji Benjamin
 
-## 🚀 Javascript Developer | Web3 Engineer 
+## 🚀 Javascript Developer | Web3  
 
 I'm a passionate developer crafting robust full-stack solutions with a focus on security and scalability. From elegant frontends to secure backends, I transform complex requirements into production-ready applications.
 
